@@ -82,6 +82,12 @@ Le programme affichera les anciens coordonnés du produit et vous demendera les 
 
 ![This is an image](https://github.com/dhia2121/Application-de-gestion-de-stock/blob/2aa1fc8041ce03950d33b1535f53ebdffa6168cf/Images%20pour%20le%20fichier%20Readme/14.png)
 
+
+## The essential components of our code:
+
+Notre code définit deux structures de données, produit et date, qui sont utilisées pour stocker les informations sur les produits et les dates. La structure produit contient quatre champs : une référence, un nom, un prix et une quantité. La structure date contient trois champs : un jour, un mois et une année.
+Dans ce travail , on trouve la notion des **tableaux** dans les différentes procédures et fonctions. On trouve aussi la notion des **pointeurs** dans la procédure "GetDate"  et finalement on trouve aussi la notion des **fichiers** dans le stockage de l'historique.
+
 ## Who contributed to the project?
 
 * Hassine El Ouni
