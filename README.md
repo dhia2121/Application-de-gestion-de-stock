@@ -81,3 +81,10 @@ On peut aussi modifier un produit en appuyant sur 2.
 Le programme affichera les anciens coordonnés du produit et vous demendera les nouveaux.
 
 ![This is an image](https://github.com/dhia2121/Application-de-gestion-de-stock/blob/2aa1fc8041ce03950d33b1535f53ebdffa6168cf/Images%20pour%20le%20fichier%20Readme/14.png)
+
+## Who contributed to the project?
+
+* Hassine El Ouni
+* Hamza Blagui
+* Yasmine Maalej
+* Mohamed Dhia Ben Dkhil
